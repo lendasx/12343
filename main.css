@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #5c5c5c;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #3f3f3f;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000000;
+}
+
+p {
+    color: #000000;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
